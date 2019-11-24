@@ -1,0 +1,66 @@
+	Nombre: Fernando Aguilar López
+	Grupo: Vespertino 2
+	Fecha: 24 de Noviembre de 2019
+	
+	GIT
+	
+	Cual es la diferencia entre git y GitHUB?
+
+	--GIT es la herramienta en sí del Sistema de Control de Versiones (VCS), mientras que
+	  GitHUB es un servicio para el almacenamiento de repositorios en Linea
+
+	En cuantos y cuales estados puede estar un archivo?
+
+	--En tres, y son: Commited (Ultimo archivo original guardado); Modified (Archivo con cualquier
+	  cambio respecto al original) y Staged (archivo guardado y modificado subido al repositorio
+	  y preparado para publicarse).
+
+	Para que sirve el comando "git add ." ?
+	
+	--Es el comando que sirve para agregar un archivo al indice de un repositorio en GIT ya sea nuevo o 	  modificado.
+
+	Cuales son los 4 datos mas relevantes a la hora de hacer un commit?
+
+	--Nos pide el cambio que se hizo, la fecha en que se hizo (Date), quien lo hizo (Author)
+	  mensaje del porque de los cambios que se hicieron (Message).
+
+	Cual es el comando para crear una rama en mi repositorio?
+
+	--Git Branch 
+
+
+	JIRA
+	
+	Defina lo que es un issue:
+
+	--Es una actividad a realizar dentro de un proyecto.
+
+	En kanban y scrum, cuales son las columnas default de un tablero?
+
+	--En Scrum son TO DO, IN PROGRESS y DONE.
+	  En Kanban son BACKLOG, SELECTED FOR DEVELOPMENT, IN PROGRESS y DONE.
+
+	Como se habilita la funcion de backlog en un tablero Kanban?
+	
+	--Se habilita al crear un nuevo Issue dentro de un proyecto Kanban. (aparece por default a la hora de         crear un nuevo proyecto Kanban)
+	
+	Jenkins
+	
+	Cual es el atajo (ruta relativa) para el directorio home de un usuario de ubuntu?
+	
+	-- cd (únicamente)
+
+	Una vez instalado Jenkins, como se desbloquea para poder comenzar a usarlo?
+
+	--desde la consola de comandos de linux: sudo service jenkins start, despues ir al puerto configurado 	por el servidor en tu navegador y accesar con tu usuario.
+
+	Cual es la relacion entre Hudson y Jenkins? 
+	
+	--Hudson es el nombre original con que comenzó el desarrollo del software de Jenkins en Sun 	Microsystems, pero debido al reclamo de derechos por parte de Oracle despues de adquirir a Sun y
+	al deseo de la comunidad de desarrolladores Open-Source de Hudson, decidieron cambiar el nombre y 		migrar el desarrollo a Github para continuar con Open-Source, es por eso que se encuentran tan 		estrechamente relacionados, aunque a partir de ese momento tomaron caminos diferentes.
+	
+
+
+Incluir el archivo de "examen" en el repositorio de la pasteleria de Romualdo.
+
+Enviar un correo con la URL del repositorio a tchavez00@hotmail.com
